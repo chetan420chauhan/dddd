@@ -1,0 +1,159 @@
+.frame-child {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 6000px;
+  height: 4245px;
+}
+.capture2-1-icon {
+  position: absolute;
+  top: 10px;
+  left: -3671px;
+  width: 9671px;
+  height: 3321px;
+  object-fit: cover;
+}
+.frame-item {
+  position: absolute;
+  top: 2969px;
+  left: -8px;
+  background-color: var(--color-gold);
+  width: 6008px;
+  height: 515px;
+}
+.salt-fx-home {
+  position: absolute;
+  top: 3049px;
+  left: calc(50% - 2563px);
+  font-size: 291px;
+  text-transform: uppercase;
+  font-family: var(--font-montserrat);
+}
+.frame-inner,
+.rectangle-div {
+  position: absolute;
+  top: 3866px;
+  left: 437px;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-gold);
+  width: 2357px;
+  height: 1537px;
+}
+.rectangle-div {
+  left: 3205px;
+}
+.include-an-infographic,
+.use-high-quality-images {
+  position: absolute;
+  top: 4532px;
+  left: 570px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 2092px;
+}
+.include-an-infographic {
+  left: 3338px;
+}
+.ellipse-div,
+.frame-child1 {
+  position: absolute;
+  top: 3629px;
+  left: 1220px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  box-shadow: 30px 30px 48.9px rgba(0, 0, 0, 0.25);
+  width: 792px;
+  height: 792px;
+}
+.frame-child1 {
+  left: 3988px;
+}
+.b,
+.b1 {
+  position: absolute;
+  top: 3738px;
+  left: 1475px;
+  font-size: var(--font-size-471xl);
+  text-transform: capitalize;
+  font-family: var(--font-roboto);
+  color: var(--color-darkslateblue);
+}
+.b1 {
+  left: 4243px;
+}
+.frame-child2 {
+  position: absolute;
+  top: 8132px;
+  left: calc(50% - 2577px);
+  background-color: #F5F5F5;
+  width: 5154px;
+  height: 1634px;
+}
+.transform-your-home {
+  position: absolute;
+  top: 8246px;
+  left: 574px;
+  font-size: 134px;
+  text-transform: capitalize;
+  text-align: justify;
+  display: inline-block;
+  width: 4852px;
+}
+.below-banner-1-e09d3497-cf68-4-icon {
+  position: absolute;
+  top: 5549px;
+  left: 742px;
+  width: 1644px;
+  height: 2464px;
+  object-fit: cover;
+}
+.kit1-427dec7a-db23-4c6a-9ed8-2-icon {
+  position: absolute;
+  top: 6266px;
+  left: 2581px;
+  width: 2828px;
+  height: 1452px;
+  object-fit: cover;
+}
+.rectangle-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 9966px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-143xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+
+
+
+
+
+New
+
+
+Charnjeet verma
+  11:14 AM
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-roboto: Roboto;
+  --font-montserrat: Montserrat;
+  /* font sizes */
+  --font-size-471xl: 490px;
+  --font-size-143xl: 162px;
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkslateblue: #1346A0;
+  --color-gold: #F7E836;
+  /* Border radiuses */
+  --br-61xl: 80px;
+}
